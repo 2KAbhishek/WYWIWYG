@@ -25,6 +25,12 @@ cd WYWIWYG
 
 Open `index.html` in your browser or visit [https://2kabhishek.github.io/WYWIWYG](https://2kabhishek.github.io/WYWIWYG).
 
+##  Adding more tags 
+
+- Add a :before rule with content as opening tag 
+- Add an :after rule with content as closing tag 
+- Use the tag in html 
+
 ### To-Do
 
 - [ ] Add more tags and styling.
