@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <style>
+            html {margin: 16px; height: 1%; background-color: black; color: #1688F0; text-align: center;}
+            * {display: block; font-family: monospace;}
+            html:before {content: '<html>'} html:after {content: '</html>'}
+            style {white-space: prewrap}
+            style:before {content: '<style>'} style:after {content: '<\/style>'}
+            head:before {content: '<head>'} head:after {content: '</head>'}
+            body:before {content: '<body>'} body:after {content: '</body>'}
+            title:before { content: '<title>'; } title:after  {content: '</title>'}
+            a:before { content: '<a>'; } a:after  {content: '</a>'}
+            p:before { content: '<p>'; } p:after  {content: '</p>'}
+            ul:before { content: '<ul>'; } ul:after  {content: '</ul>'}
+            li:before { content: '<li>'; } li:after  {content: '</li>'}
+            h1:before { content: '<h1>'; } h1:after  {content: '</h1>'}
+            h2:before { content: '<h2>'; } h2:after  {content: '</h2>'}
+            a[href]:before {content: "<a href='" attr(href) "'>"}
+        </style>
+       <title> WYWIWYG </title>
+    </head>
+    <body>
+        <h1> WYWIWYG </h1>
+        <p> What You Write Is What You Get </p>
+        <p> This is a Quine, a program which that produces a copy of its own source code as its only output.</p>
+
+        <p> You can have a look at the source it by going to <a href='https://github.com/2KAbhishek/WYWIWYG/'>WYWIWYG on GitHub</a>.</p>
+
+        <h2> Adding more tags </h2>
+            <ul>
+                <li> Add a :before rule with content as opening tag </li>
+                <li> Add an :after rule with content as closing tag </li>
+                <li> Use the tag in  html </li>
+            </ul>
+    </body>
+</html>
