@@ -1,51 +1,35 @@
-# BareMinimum
+# WYWIWYG
 
-![Size](https://img.shields.io/github/repo-size/2kabhishek/BareMinimum?style=plastic&color=0f0&label=Size)
-![Updated](https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=plastic&color=f00&label=Updated)
-![Stars](https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=plastic&color=ffc801&label=Stars)
-![Forks](https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=plastic&color=003cff&label=Forks)
-![Watchers](https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=plastic&color=ff5500&label=Watchers)
-![Contributors](https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=plastic&color=f0f&label=Contributors)
-![License](https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=555&label=License)
+![Size](https://img.shields.io/github/repo-size/2kabhishek/WYWIWYG?style=plastic&color=0f0&label=Size)
+![Updated](https://img.shields.io/github/last-commit/2kabhishek/WYWIWYG?style=plastic&color=f00&label=Updated)
+![Stars](https://img.shields.io/github/stars/2kabhishek/WYWIWYG?style=plastic&color=ffc801&label=Stars)
+![Forks](https://img.shields.io/github/forks/2kabhishek/WYWIWYG?style=plastic&color=003cff&label=Forks)
+![Watchers](https://img.shields.io/github/watchers/2kabhishek/WYWIWYG?style=plastic&color=ff5500&label=Watchers)
+![Contributors](https://img.shields.io/github/contributors/2kabhishek/WYWIWYG?style=plastic&color=f0f&label=Contributors)
+![License](https://img.shields.io/github/license/2kabhishek/WYWIWYG?style=plastic&color=555&label=License)
 
-BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+What You Write Is What You Get.
 
-## Prerequisites
+This is an HTML Quine, a program which that produces     a copy of its own source code as its only output.
 
-Before you begin, ensure you have met the following requirements:
+## Getting WYWIWYG
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
-
-## Installing BareMinimum
-
-To install BareMinimum, follow these steps:
+To install WYWIWYG, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/BareMinimum
-cd BareMinimum
-<install_command>
+git clone https://github.com/2kabhishek/WYWIWYG
+cd WYWIWYG
 ```
 
-## Using BareMinimum
+## Using WYWIWYG
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
-
-```
+Open `index.html` in your browser or visit [https://2kabhishek.github.io/WYWIWYG](https://2kabhishek.github.io/WYWIWYG).
 
 ### To-Do
 
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+- [ ] Add more tags and styling.
 
 Hit the :star: button if you found this useful.
 
 ### More Info
+
